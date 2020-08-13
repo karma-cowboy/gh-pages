@@ -1,2 +1,2 @@
-# gh-pages
-GitHub Pages
+# my stuff
+used for github pages repository
